@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**ThigaoRibeiro/ThigaoRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Thiago Ribeiro.
+- 📍  I live in Rio de Janeiro, 🇧🇷
+- 💻 I work as Data Engineer
+- My Social Network <a style="border-radius= 4px;" href="https://www.linkedin.com/in/thiago-ribeiro-3b6b6953/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-melo-1863971b2/"> </a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :mortar_board: Academic Education
+- Internet Systems - Unicesumar
+- Analysis and Systems Development - Unicesumar
+- MBA Data Engineering - UFRJ
+
+### My Skills
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/microsoft-sql-server-1.svg?token=ALFMMUAGKCIJ22J2WLWIBCTFBZFOU" alt="SQL SERVER" width="100" height="100" style="max-width:100%;"></img>
+
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/oracle.svg?token=ALFMMUBZQWORC4DO3PZQEODFBZFUS" alt="css" width="100" height="100" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/postgresql.svg?token=ALFMMUCFKIR2WFHVV7NQ7ATFBZF2C" alt="java_script" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/python.svg?token=ALFMMUAENQGL5SIISMSXRLDFBZF34" alt="react" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/pandas.svg?token=ALFMMUG6BAOSFHNYJAZ45SLFBZF54" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/apache-spark.svg?token=ALFMMUCNGLBSLF3WFHQC5RLFBZF7M" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/google-cloud.svg?token=ALFMMUBLV5AZKF6T6QIY7WTFBZGAY" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/apache-Airflow.svg?token=ALFMMUDBJSBPZNFVK5XPQPLFBZGCE" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/hadoop.svg?token=ALFMMUEKQ27LVZSFHSN7ATTFBZGDA" alt="sqlserver" width="100" height="100" style="max-width:100%;"/>
