@@ -13,8 +13,8 @@
 - MBA Data Engineering - UFRJ
 
 ### My Skills
-<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/microsoft-sql-server-1.svg?token=ALFMMUAGKCIJ22J2WLWIBCTFBZFOU" alt="SQL-SERVER" width="100" height="100" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/oracle.svg?token=ALFMMUBZQWORC4DO3PZQEODFBZFUS" alt="Oracle" width="100" height="100" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/refs/heads/main/microsoft-sql-server-1.svg?token=ALFMMUAGKCIJ22J2WLWIBCTFBZFOU" alt="SQL-SERVER" width="100" height="100" style="max-width:100%;"></img>
+<img src="https://github.com/ThigaoRibeiro/img/blob/main/oracle.svg?token=ALFMMUBZQWORC4DO3PZQEODFBZFUS" alt="Oracle" width="100" height="100" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/postgresql.svg?token=ALFMMUCFKIR2WFHVV7NQ7ATFBZF2C" alt="PostgreSQL" width="90" height="100" style="max-width:100%;"/>
 <img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/refs/heads/main/python.svg?token=ALFMMUAENQGL5SIISMSXRLDFBZF34" alt="Python" width="100" height="100" style="max-width:100%;"/>
 <img src="https://raw.githubusercontent.com/ThigaoRibeiro/img/2f6d22a3c1eea8cd692fd4c95b06112f1c1e457c/pandas.svg?token=ALFMMUG6BAOSFHNYJAZ45SLFBZF54" alt="Pandas" width="200" height="100" style="max-width:100%;"/><br>
