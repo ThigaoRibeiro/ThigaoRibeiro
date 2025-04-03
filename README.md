@@ -18,7 +18,7 @@
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/postgresql.svg?token=ALFMMUCFKIR2WFHVV7NQ7ATFBZF2C" alt="PostgreSQL" width="90" height="100" style="max-width:100%;"/>
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/python.svg?token=ALFMMUAENQGL5SIISMSXRLDFBZF34" alt="Python" width="100" height="100" style="max-width:100%;"/>
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/pandas.svg?token=ALFMMUG6BAOSFHNYJAZ45SLFBZF54" alt="Pandas" width="200" height="100" style="max-width:100%;"/><br>
-<img src="https://github.com/ThigaoRibeiro/img/blob/main/apache-spark.svg?token=ALFMMUCNGLBSLF3WFHQC5RLFBZF7M" alt="Spark" width="150" height="100" style="max-width:100%;"/>
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/google-cloud.svg?token=ALFMMUBLV5AZKF6T6QIY7WTFBZGAY" alt="GCP" width="100" height="100" style="max-width:100%;"/>
+<img src="https://github.com/ThigaoRibeiro/img/blob/main/apache-spark.svg?token=ALFMMUCNGLBSLF3WFHQC5RLFBZF7M" alt="Spark" width="150" height="100" style="max-width:100%;"/>
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/apache-Airflow.svg?token=ALFMMUDBJSBPZNFVK5XPQPLFBZGCE" alt="Airflow" width="70" height="100" style="max-width:100%;"/>
 <img src="https://github.com/ThigaoRibeiro/img/blob/main/hadoop.svg?token=ALFMMUEKQ27LVZSFHSN7ATTFBZGDA" alt="Hadoop" width="350" height="100" style="max-width:100%;"/>
